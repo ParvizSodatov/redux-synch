@@ -1,0 +1,30 @@
+table{
+  width: 70%;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  border-top: 1px solid #d7d1d1;
+    /* border-bottom: 1px solid #d7d1d1; */
+
+}
+.actiondiv{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+td{
+  border-bottom: 2px solid rgb(175, 174, 174);
+  border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 15px;
+    font-size: 20px;
+    color: rgb(237, 226, 226);
+}
+body{
+  background-color: rgb(118, 123, 121);
+
+}
+
+tr:hover{
+  background-color: rgb(144, 149, 153);
+}
